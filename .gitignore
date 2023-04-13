@@ -1,0 +1,20 @@
+# 下面是自定义例子
+
+# 忽略的目录
+.obsidian
+00-MOC/
+08-Assets/
+101Guide/
+Day Planners/
+diary/
+MorningDiary/
+
+
+# 排除忽略目录下的子文件夹
+!MorningDiary/template/ 
+!08-Assets/Scripts/
+
+# 忽略的文件
+08-Assets/Scripts/MyLibrary.bib
+.obsidian/workspace
+.obsidian/plugins/recent-files-obsidian/data.json
